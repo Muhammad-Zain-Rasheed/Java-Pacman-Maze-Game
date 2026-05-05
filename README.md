@@ -42,9 +42,7 @@ Main.java
 
 **Steps:**
 
-1. Clone this repository:
-
-https://github.com/Muhammad-Zain-Rasheed/Java-Pacman-Maze-Game.git
+1. Clone this repository: https://github.com/Muhammad-Zain-Rasheed/Java-Pacman-Maze-Game.git
 
 2. Open the project in IntelliJ IDEA
 
@@ -73,7 +71,7 @@ x = Wall (do not touch!)
 
 ## 📸 Screenshot
 
-Pacman_Game_on_CLI_Screenshot.png
+Pacman Game on CLI Screenshot.png
 
 ## 💡 What I Learned
 
