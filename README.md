@@ -71,7 +71,7 @@ x = Wall (do not touch!)
 
 ## 📸 Screenshot
 
-Pacman Game on CLI Screenshot.png
+![Maze Game Screenshot](Pacman Game on CLI Screenshot.png)
 
 ## 💡 What I Learned
 
