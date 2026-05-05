@@ -71,7 +71,7 @@ x = Wall (do not touch!)
 
 ## 📸 Screenshot
 
-![Maze Game Screenshot](Pacman Game on CLI Screenshot.png)
+https://github.com/Muhammad-Zain-Rasheed/Java-Pacman-Maze-Game/blob/main/Pacman%20Game%20on%20CLI%20Screenshot.png
 
 ## 💡 What I Learned
 
